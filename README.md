@@ -21,8 +21,8 @@ currently studying machine learning.
 [![](https://img.shields.io/website?color=007ACC&style=flat-square&up_message=satcrunch.com&url=https%3A%2F%2Fsatcrunch.com)](https://satcrunch.com)
 [![](https://img.shields.io/website?color=007ACC&style=flat-square&up_message=roannav.com&url=https%3A%2F%2Froannav.com)](https://roannav.com)
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCwDTx4_WynQ3ewL8olc7nkg?label=Rose%20Code%20Views&style=social)
-![Twitter URL](https://img.shields.io/twitter/url?label=%40roannav&style=social&url=https%3A%2F%2Ftwitter.com%2Froannav)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCwDTx4_WynQ3ewL8olc7nkg?label=Rose%20Code%20Views&style=social)](https://www.youtube.com/channel/UCwDTx4_WynQ3ewL8olc7nkg)
+[![Twitter URL](https://img.shields.io/twitter/url?label=%40roannav&style=social&url=https%3A%2F%2Ftwitter.com%2Froannav)](https://twitter.com/roannav)
 [![LinkedIn](https://img.shields.io/badge/Roanna%20Victorio--0A66C2?style=social&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/roanna-victorio-264b1181)
 
 Personal: ![Husband](https://img.shields.io/badge/Husband-1-orange?style=flat-square&logo=Jenkins&logoColor=white)
