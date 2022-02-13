@@ -1,5 +1,5 @@
 # Hi, I’m Roanna Victorio
-currently studying machine learning.
+<h3>I'm a software developer and currently studying machine learning.</h3>
 
 ![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white)
 
@@ -33,6 +33,9 @@ Hobbies: :seedling: :hibiscus: :runner:
 ![roannav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=roannav&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&bg_color=10,FFFFFF,AAAAFF)
 <!-- ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone) -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roannav&hide=html&langs_count=10&layout=compact&custom_title=My%20Top%20Languages&bg_color=10,FFFFFF,CACAFF)](https://github.com/roannav/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=roannav&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!--
 roannav/roannav is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
