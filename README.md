@@ -1,5 +1,6 @@
 # Hi, I’m Roanna Victorio
 <h3>I'm a software developer and currently studying machine learning.</h3>
+<img align="right" height="280" alt="Roanna Victorio headshot" src="img/Roanna_headshot.png">
 
 ![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white)
 
