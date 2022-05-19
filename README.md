@@ -35,7 +35,7 @@ Hobbies: :seedling: :hibiscus: :runner:
 <!-- ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone) -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roannav&hide=html&langs_count=10&layout=compact&custom_title=My%20Top%20Languages&bg_color=10,FFFFFF,CACAFF)](https://github.com/roannav/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=roannav&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=roannav&no-bg=true&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
