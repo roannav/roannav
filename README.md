@@ -1,6 +1,11 @@
 # Hi, I’m Roanna Victorio
 <h3>I'm a software developer and currently studying machine learning.</h3>
 <img align="right" height="280" alt="Roanna Victorio headshot" src="img/Roanna_headshot.png">
+<b>Always happy to meet other techies!  Let's connect:</b> 
+
+[![LinkedIn](https://img.shields.io/badge/Roanna%20Victorio--0A66C2?style=social&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/roanna-victorio-264b1181)
+[![Twitter URL](https://img.shields.io/twitter/url?label=%40roannav&style=social&url=https%3A%2F%2Ftwitter.com%2Froannav)](https://twitter.com/roannav)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCwDTx4_WynQ3ewL8olc7nkg?label=Rose%20Code%20Views&style=social)](https://www.youtube.com/channel/UCwDTx4_WynQ3ewL8olc7nkg)
 
 ![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=python&logoColor=white)
 
@@ -21,10 +26,6 @@
 
 [![](https://img.shields.io/website?color=007ACC&style=flat-square&up_message=satcrunch.com&url=https%3A%2F%2Fsatcrunch.com)](https://satcrunch.com)
 [![](https://img.shields.io/website?color=007ACC&style=flat-square&up_message=roannav.com&url=https%3A%2F%2Froannav.com)](https://roannav.com)
-
-[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCwDTx4_WynQ3ewL8olc7nkg?label=Rose%20Code%20Views&style=social)](https://www.youtube.com/channel/UCwDTx4_WynQ3ewL8olc7nkg)
-[![Twitter URL](https://img.shields.io/twitter/url?label=%40roannav&style=social&url=https%3A%2F%2Ftwitter.com%2Froannav)](https://twitter.com/roannav)
-[![LinkedIn](https://img.shields.io/badge/Roanna%20Victorio--0A66C2?style=social&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/roanna-victorio-264b1181)
 
 Personal: ![Husband](https://img.shields.io/badge/Husband-1-orange?style=flat-square&logo=Jenkins&logoColor=white)
 ![Kids](https://img.shields.io/badge/Kids-2-yellow?style=flat-square&logo=editorconfig&logoColor=white)
